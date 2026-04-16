@@ -1,0 +1,11 @@
+name,rollno,dept,section,year,college,phone,place,cgpa
+Michael Chen,R101,Computer Science,A,3,MIT,9876543220,Boston,8.7
+Sarah Johnson,R102,Electronics,B,2,Stanford,9876543221,California,9.2
+David Williams,R103,Mechanical,A,4,Harvard,9876543222,Massachusetts,7.9
+Emily Davis,R104,Computer Science,A,3,MIT,9876543223,Boston,8.8
+James Wilson,R105,Electrical,C,2,Stanford,9876543224,California,8.3
+Jennifer Brown,R106,Civil Engineering,A,3,Caltech,9876543225,Pasadena,8.5
+Robert Taylor,R107,Computer Science,B,4,MIT,9876543226,Boston,9.1
+Lisa Anderson,R108,Electronics,A,2,Stanford,9876543227,California,8.0
+William Thomas,R109,Mechanical,B,3,Harvard,9876543228,Massachusetts,7.7
+Patricia Jackson,R110,Computer Science,A,2,MIT,9876543229,Boston,8.9
